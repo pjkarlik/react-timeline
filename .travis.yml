@@ -10,6 +10,6 @@ script:
 deploy:
   provider: surge
   project: ./dist/
-  domain: react-timeline.surge.sh
+  domain: shadertoy-timeline.surge.sh
 
   skip_cleanup: true
